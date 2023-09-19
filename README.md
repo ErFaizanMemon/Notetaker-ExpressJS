@@ -5,16 +5,6 @@
 Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 
-## Usage
-
-https://hexd9-business-notes-06298a216602.herokuapp.com/
-
-https://drive.google.com/file/d/1GCmmP7D2r0HyhLZVWW5sN1LZC8pFxNxy/view
-
-To start the application, run the following command in your terminal or command prompt: npm start
-
-Open the port on browser
-
 ## User Story
 
 ```
@@ -43,4 +33,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Deployment
+
+Heroku Webpage Link - https://notetaker-express-52f000e2d3a1.herokuapp.com/
+
+Github Link - https://github.com/ErFaizanMemon/Notetaker-ExpressJS
 
